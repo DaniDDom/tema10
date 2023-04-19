@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Listado>
+    <Registros>
+        <Registro>
+            <fecha>2020-3-2</fecha>
+            <Maxima>25</Maxima>
+            <Minima>3</Minima>
+        </Registro>
+        <Registro>
+            <fecha>2020-3</fecha>
+            <Maxima>2</Maxima>
+            <Minima>1</Minima>
+        </Registro>
+        <Registro>
+            <fecha>2013-2-1</fecha>
+            <Maxima>20</Maxima>
+            <Minima>3</Minima>
+        </Registro>
+        <Registro>
+            <fecha>2020-3-1</fecha>
+            <Maxima>15</Maxima>
+            <Minima>3</Minima>
+        </Registro>
+        <Registro>
+            <fecha>2030-2-1</fecha>
+            <Maxima>25</Maxima>
+            <Minima>3</Minima>
+        </Registro>
+    </Registros>
+</Listado>
